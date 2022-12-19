@@ -1,0 +1,91 @@
+
+    
+   
+
+.container2{
+    text-align: center;
+    
+
+}
+button {
+
+    
+    background-image: linear-gradient(to right top,rgb(221, 214, 215),rgb(0, 00, 100));
+    color:white;
+    width:200px;
+    font-size: 40px;
+    height:100px;
+    margin-top: 60px;
+    border:2px solid black;
+    border-radius: 20px;
+    
+}
+button a{
+    text-decoration: none;
+    
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 35px;
+   text-align: center;
+   background-image: linear-gradient(rgb(12, 95, 107),rgb(121, 100, 100), rgb(215, 117, 117));
+   
+       
+}
+body{
+    background-image:linear-gradient(white,black,white,);
+}
+section{
+    background-image:url("image2.jpg");
+    background-position:center;   
+
+background-size: cover;
+width: 1550px;
+
+height:100vh;
+
+
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+   font-style: normal ;
+   align-content: space-between;
+   text-align: right;
+}
+.container a{
+    background-image: linear-gradient(to right top,rgb(221, 214, 215),blue);
+    color:black;
+    width:200px;
+    font-size: 30px;
+    height:100px;
+    margin-top: 60px;
+    border:1px;
+    border-style: hidden;
+    border-radius: 20px;
+}
+.container1{
+    
+
+    width:1000px;
+    height:200px;
+    margin-top: 50px;
+    justify-content:center;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 400px;
+
+
+}
+.copyright{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 25PX;
+    color:rgb(15, 15, 15);
+}
+.copyright a{
+    color:rgb(13, 0, 128);
+    text-decoration: none;
+}
